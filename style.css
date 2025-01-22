@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.crypto-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.crypto-card img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.crypto-card h2 {
+    margin: 10px 0;
+    color: #444;
+}
+
+.price {
+    font-size: 24px;
+    color: #2ecc71;
+    font-weight: bold;
+}
